@@ -132,8 +132,8 @@ User Query → Prompt 구성 → LLM → 응답 생성 → 포맷팅
 | Metric     | Result |
 |-----------|--------|
 | Recall@10 | 동일   |
-| nDCG@10   | Cosine 최고 |
-| 다양성     | Pearson 우수 |
+| nDCG@10   | Cosine 우수 |
+| ILD@10    | Pearson 우수 |
 
 👉 실서비스 기준 → **Cosine 선택**
 
