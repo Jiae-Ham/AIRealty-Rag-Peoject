@@ -170,3 +170,21 @@ AIRealty-Rag-Project/
 
 ---
 
+## UI
+<br>
+
+## 📱 서비스 화면 (UI)
+
+<br>
+
+## 📱 서비스 UI 화면
+
+| 온보딩 | 로그인 | 홈 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/353b2340-283e-4f38-b777-19f4cdeee012" width="160"> | <img src="https://github.com/user-attachments/assets/a169928d-9e21-44fb-9499-12fc42331f5a" width="160"> | <img src="https://github.com/user-attachments/assets/1503136c-7c9d-4e09-923e-150a5d89dc6a" width="160"> |
+| **문서 분석** | **문서 분석-1** | **문서 분석-2** |
+| <img src="https://github.com/user-attachments/assets/762ace10-7faa-4fcc-ae22-b7c58b1b4066" width="160"> | <img src="https://github.com/user-attachments/assets/a50a3c1d-8c91-4d0e-b58b-f8cdd55aecea" width="160"> | <img src="https://github.com/user-attachments/assets/b116edc8-35b2-41ed-8701-2dd2ee2890d4" width="160"> |
+
+
+
+
